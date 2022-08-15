@@ -2,9 +2,11 @@
 
 ## Employment history
 - Lawn mowing
+- 
 
 ## Education History
-- Middle School and Elementary school graduate
+- Booth Middle School
+- Huddleston Elementary School
 
 ## Hobbies
 - Biking
