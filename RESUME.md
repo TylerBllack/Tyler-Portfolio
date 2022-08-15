@@ -2,7 +2,6 @@
 
 ## Employment history
 - Lawn mowing
-- 
 
 ## Education History
 - Booth Middle School
