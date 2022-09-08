@@ -4,3 +4,5 @@ I go to school at [Mcintosh High School](https://www.fcboe.org/mhs).
 
 ## Contents
 - [Resume](RESUME.md)
+- [Programming Language Table](Tyler-Programming-Table.md)
+- [Binary Logic](Binary-Logic.md)
