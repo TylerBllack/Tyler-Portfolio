@@ -9,3 +9,7 @@
 
 ## Hobbies
 - Biking
+
+##Typing
+-Keys Learned
+ -j, k, u, space, f, d, c, e
